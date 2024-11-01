@@ -27,4 +27,6 @@
 5. O Expo irá gerar um QR code que pode ser escaneado utilizando o aplicativo Expo Go no seu dispositivo móvel. Certifique-se de que o seu dispositivo e o computador estejam conectados à mesma rede.
 6. O aplicativo será executado no seu dispositivo móvel através do aplicativo Expo Go.
 
+## Projeto Imagem:
+
 7. ![app](https://github.com/user-attachments/assets/79b708d8-0ec1-4591-917a-bdcc3f72f526)
